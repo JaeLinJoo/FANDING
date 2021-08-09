@@ -13,6 +13,22 @@
 - 최진영: Full Stack, Funding, Server 
 - 한지은: Application UI & Frontend
 ---------------------------------------
+## Main Target & Stakeholder
+### Main Target
+- 참여자
+- 총대
+
+#### [핵심시나리오 및 Stakeholder 관계도]
+![핵심 시나리오 및 Stakeholder 관계도](./images/target_stakeholder.jpg)
+---------------------------------------
+## System Architecture
+#### [전체 시스템 구조도]
+![전체 시스템 구조도](./images/시스템구조도.jpg)
+
+#### [상세 시스템 구조]
+<img src="./images/상세시스템구조도.jpg" width="800" height="500">
+
+---------------------------------------
 ## Functions of FANDING
 #### 1. 총대
 - 로그인 및 회원가입 기능 (Twitter 로그인 포함)
