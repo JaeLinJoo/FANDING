@@ -1,5 +1,4 @@
 # FANDING 
-[2020-2 아주대학교 SW 캡스톤디자인]
 ---------------------------------------
 ## ■ About FANDING
 - K-POP 팬을 위한 크라우드 펀딩 웹 애플리케이션 서비스
@@ -225,7 +224,4 @@
 - react-icons <https://react-icons.github.io/react-icons/> 
 - lifecycle of react <https://reactjs.org/docs/state-and-lifecycle.html/>
 
-## ■ GIT 주소
-- https://github.com/AJOU-A2B2/FANDING
-(+ UPDATE README.md : https://github.com/JaeLinJoo/FANDING)
 
